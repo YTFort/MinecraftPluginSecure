@@ -9,7 +9,7 @@
 - [Телеграм](https://t.me/FortcoteTG)
 
 ## `Переводы`
-| <sub>RU</sub> [английский](README.md) | <sub>RU</sub> [Русский](README_RU.md) |
+| <sub>EN</sub> [английский](README.md) | <sub>RU</sub> [Русский](README_RU.md) |
 |-------------------------|----------------------------|
 
 ## `Информация`
