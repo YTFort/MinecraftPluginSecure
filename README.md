@@ -20,7 +20,6 @@
 
 ## `Links`
 * Telegram: https://t.me/MinecraftPluginSecure_Bot
-<a href="https://t.me/MinecraftPluginSecure_Bot" class="button pill">Telegram</a>
 
 # `How to use`
 ### `1 - Start/Restart`
